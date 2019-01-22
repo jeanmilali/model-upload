@@ -1,16 +1,6 @@
-{
-    "Items": [
-        {
-            "TITRE": "8484239823",
-            "CONTENU": "User1"
-        },
-        {
-            "TITRE": "512343283",
-            "CONTENU": "User2"
-        },
-        {
-            "TITRE": "Abracadabra",
-            "CONTENU": "User3"
-        }
-    ]
-}
+{\r\n    \"
+Items\": [
+\r\n        {\r\n            \"titre\": \"Nouvelle1\",\r\n            \"contenu\": \"Contenu1\"},
+\r\n        {\r\n            \"titre\": \"Nouvelle2\",\r\n            \"contenu\": \"Contenu2\"},
+\r\n        {\r\n            \"titre\": \"Nouvelle3\",\r\n            \"contenu\": \"Contenu3\"}
+\r\n    ]\r\n}
