@@ -1,16 +1,16 @@
 {
-  "Nouvelles": [
-      {
-        "TITRE":"Mardi 8h30",
-        "CONTENU":"Rencontre UBISOFT"
-      },
-      {
-        "TITRE":"Nouvelle 2",
-        "CONTENU":"Contenu 2"
-      },
-      {
-        "TITRE":"Nouvelle 3",
-        "CONTENU":"Contenu 3"
-      }
-  ]
+    "Nouvelles": [
+        {
+            "TITRE": "8484239823",
+            "CONTENU": "Powai"
+        },
+        {
+            "TITRE": "512343283",
+            "CONTENU": "User2"
+        },
+        {
+            "TITRE": "Abracadabra",
+            "CONTENU": "User3"
+        }
+    ]
 }
