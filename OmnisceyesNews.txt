@@ -1,4 +1,4 @@
-{
+[{
     "TITRE": "8484239823",
     "CONTENU": "User1"
 },
@@ -9,4 +9,4 @@
 {
     "TITRE": "Abracadabra",
     "CONTENU": "User3"
-}
+}]
