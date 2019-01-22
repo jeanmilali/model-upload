@@ -1,12 +1,16 @@
-{"Items":[{
-    "TITRE": "8484239823",
-    "CONTENU": "User1"
-},
 {
-    "TITRE": "512343283",
-    "CONTENU": "User2"
-},
-{
-    "TITRE": "Abracadabra",
-    "CONTENU": "User3"
-}]}
+    "Items": [
+        {
+            "TITRE": "8484239823",
+            "CONTENU": "User1"
+        },
+        {
+            "TITRE": "512343283",
+            "CONTENU": "User2"
+        },
+        {
+            "TITRE": "Abracadabra",
+            "CONTENU": "User3"
+        }
+    ]
+}
