@@ -1,8 +1,8 @@
 {
     "Items": [
         {
-            "TITRE": "Titre1",
-            "CONTENU": "User1"
+            "TITRE": "Lancement de l'application Omnisceyes",
+            "CONTENU": "Aujourd'hui est un grand jour. Nous lançons officiellement l'application Omnisceyes qui permet l'accès au nouvelles ainsi qu'à un merveilleu jeu d'évasion en réalité augmentée!"
         },
         {
             "TITRE": "Titre2",
