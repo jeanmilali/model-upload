@@ -1,6 +1,5 @@
 {
-  "Nouvelles":
-  [
+  "Nouvelles": [
       {
         "TITRE":"Mardi 8h30",
         "CONTENU":"Rencontre UBISOFT"
